@@ -1,4 +1,4 @@
-to run
-  change to folder directory
-  npm install
-  npm run dev
+# to run
+ # change to folder directory
+ # npm install
+ # npm run dev
